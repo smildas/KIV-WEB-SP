@@ -1,0 +1,27 @@
+html{
+    height: 100%;
+}
+
+body{
+    background: linear-gradient(red, white);
+}
+
+img:hover{
+    fill: #FEDCD2 !important;
+}
+
+.nav-item{
+    color: #6f42c1 !important;
+    margin-right: 5px;
+}
+
+.nav-item{
+    background: #FEDCD2 !important;
+}
+
+footer{
+    text-align: center;
+    color: white;
+    background: black;
+    padding: 15px;
+}
